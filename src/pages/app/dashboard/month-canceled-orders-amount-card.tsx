@@ -30,7 +30,6 @@ export function MonthCanceledOrdersAmountCard() {
                     : 'text-rose-500 dark:text-rose-400'
                 }
               >
-                {monthCanceledOrdersAmount.diffFromLastMonth < 0 && '+'}
                 {monthCanceledOrdersAmount.diffFromLastMonth}%
               </span>{' '}
               em relação ao mês passado
