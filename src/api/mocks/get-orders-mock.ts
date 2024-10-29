@@ -43,10 +43,6 @@ export const getOrdersMock = http.get<never, never, GetOrdersResponse>('/orders'
 
   return HttpResponse.json({
     orders: paginatedOrders,
-    meta: {
-      pageIndex,
-      perPage: 10,
-      totalCount: filteredOrders.length,
-    },
+    meta: { pageIndex, perPage: 10, totalCount: filteredOrders.length },
   })
 })
