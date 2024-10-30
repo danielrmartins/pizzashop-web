@@ -11,17 +11,17 @@ Este projeto é uma aplicação web para gerenciamento de pedidos de uma pizzari
 - [Instalação e Execução](#instalação-e-execução)
 - [Licença](#licença)
 
-## 🚀 Sobre o Projeto
+## Sobre o Projeto
 
 PizzaShop Web é uma aplicação intuitiva e de fácil uso que permite aos usuários criarem um dashboard de controle para restaurantes. É voltada para o uso do restaurante para acompanhar e atualizar o status dos pedidos.
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - Cadastro de restaurantes
 - Controle de status de pedidos.
 - Gerenciamento do histórico de pedidos.
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 As principais tecnologias e bibliotecas utilizadas neste projeto incluem:
 
@@ -50,7 +50,7 @@ As principais tecnologias e bibliotecas utilizadas neste projeto incluem:
 - **Jest** - Testes unitários e de integração.
 - **Happy DOM** - Ambiente DOM para simulações de testes.
 
-## 🚀 Instalação e Execução
+## Instalação e Execução
 
 Para rodar o projeto localmente, siga os passos abaixo:
 
@@ -69,6 +69,6 @@ Para rodar o projeto localmente, siga os passos abaixo:
   npm run dev
   ```
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT.
