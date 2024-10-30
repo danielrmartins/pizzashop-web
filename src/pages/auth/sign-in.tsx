@@ -38,7 +38,7 @@ export function SignIn() {
         },
       })
     } catch (error) {
-      toast.error('Credencias inválidas.')
+      toast.error('Credenciais inválidas.')
     }
   }
   return (
